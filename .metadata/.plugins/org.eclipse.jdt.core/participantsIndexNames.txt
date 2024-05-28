@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+D:\java workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\628555624.index
+\cloth-show-room\src\main\java
